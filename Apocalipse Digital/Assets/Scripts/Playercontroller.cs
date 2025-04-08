@@ -11,16 +11,26 @@ public class PlayerController : MonoBehaviour
     public bool isGrounded;
     public float groundCheckRadius;
     public LayerMask whatsIsGround;
+    Animator anim;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
         transform.localScale = new Vector3(1, 1, 1); 
     }
 
     void Update()
     {
         isGrounded = Physics2D.OverlapCircle(groundcheck.position, groundCheckRadius, whatsIsGround);
+
+        if (isGrounded){
+            anim.SetBool("Jump", false);
+         }
+         else {
+            anim.SetBool("Jump", true);
+         }
+
         Movement();
         FlipCharacter();
         Jump();
@@ -32,6 +42,13 @@ public class PlayerController : MonoBehaviour
         velY = rb.linearVelocity.y;
 
         rb.linearVelocity = new Vector2(velX * speed, velY);
+
+        if(rb.linearVelocity.x !=0){
+            anim.SetBool("Walk",true);
+        }
+        else{
+            anim.SetBool("Walk",false);
+        }
     }
 
     public void FlipCharacter()
