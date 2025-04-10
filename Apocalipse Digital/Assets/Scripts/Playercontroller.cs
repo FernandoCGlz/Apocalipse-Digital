@@ -34,7 +34,9 @@ public class PlayerController : MonoBehaviour
         Movement();
         FlipCharacter();
         Jump();
+        Attack();
     }
+  
 
     public void Movement()
     {
@@ -62,6 +64,18 @@ public class PlayerController : MonoBehaviour
             transform.localScale = new Vector3(-1, 1, 1);
         }
     }
+    public void Attack()
+{
+    if (Input.GetButtonDown("Fire1"))
+    {
+        anim.SetBool("Attack", true);
+        Debug.Log("¡Atacando con Fire1!");
+    }
+    else
+    {
+        anim.SetBool("Attack", false);
+    }
+}
 
     public void Jump()
     {
@@ -70,6 +84,11 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpHeight);
         }
     }
+
+
+   
+
+    
 
    
 }
