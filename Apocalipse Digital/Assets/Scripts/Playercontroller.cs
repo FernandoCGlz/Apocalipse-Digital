@@ -28,8 +28,9 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("Jump", false);
          }
          else {
-            anim.SetBool("Jump", true);
+            anim.SetBool("Jump", true);  
          }
+         
 
         Movement();
         FlipCharacter();
@@ -64,16 +65,12 @@ public class PlayerController : MonoBehaviour
             transform.localScale = new Vector3(-1, 1, 1);
         }
     }
-    public void Attack()
+public void Attack()
 {
     if (Input.GetButtonDown("Fire1"))
     {
-        anim.SetBool("Attack", true);
+        anim.SetTrigger("Attack"); // Mejor que SetBool para ataques
         Debug.Log("¡Atacando con Fire1!");
-    }
-    else
-    {
-        anim.SetBool("Attack", false);
     }
 }
 
@@ -83,6 +80,10 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpHeight);
         }
+        
+        
+
+        
     }
 
 

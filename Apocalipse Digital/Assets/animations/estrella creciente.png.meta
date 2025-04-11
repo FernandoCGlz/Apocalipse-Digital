@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: c36a170991d5c5d46b95f467459c66df
+guid: 6b44dbdbe8df30b41ba777b40436e03c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1950157212074411650
-    second: nuevo resize_0
+      213: 3999419104217054006
+    second: estrella creciente_0
   - first:
-      213: 8010185622732430744
-    second: nuevo resize_1
+      213: -4724263083819065963
+    second: estrella creciente_1
   - first:
-      213: 7715451728979449128
-    second: nuevo resize_2
+      213: -1360508723014915005
+    second: estrella creciente_2
   - first:
-      213: 9218671045443184644
-    second: nuevo resize_3
+      213: 147937201625883267
+    second: estrella creciente_3
+  - first:
+      213: -121123700986187725
+    second: estrella creciente_4
+  - first:
+      213: -5491546886987023777
+    second: estrella creciente_5
+  - first:
+      213: 3897348585469925863
+    second: estrella creciente_6
+  - first:
+      213: -4277532285002250471
+    second: estrella creciente_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -161,89 +173,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nuevo resize_0
+      name: estrella creciente_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 126
-        height: 64
+        x: 6
+        y: 5
+        width: 19
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7973261956afe4e0800000000000000
-      internalID: -1950157212074411650
+      spriteID: 63bb4c64c7ac08730800000000000000
+      internalID: 3999419104217054006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nuevo resize_1
+      name: estrella creciente_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 112
-        height: 64
+        x: 37
+        y: 4
+        width: 24
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89d58e35265e92f60800000000000000
-      internalID: 8010185622732430744
+      spriteID: 59d197761cb007eb0800000000000000
+      internalID: -4724263083819065963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nuevo resize_2
+      name: estrella creciente_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 110
-        height: 64
+        x: 66
+        y: 3
+        width: 24
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8255e73287ac21b60800000000000000
-      internalID: 7715451728979449128
+      spriteID: 34c20e256808e1de0800000000000000
+      internalID: -1360508723014915005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nuevo resize_3
+      name: estrella creciente_3
       rect:
         serializedVersion: 2
-        x: 384
-        y: 0
-        width: 106
-        height: 64
+        x: 98
+        y: 3
+        width: 24
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 408e1d4297c4fef70800000000000000
-      internalID: 9218671045443184644
+      spriteID: 382e9ffd9149d0200800000000000000
+      internalID: 147937201625883267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrella creciente_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33076dcb2aea15ef0800000000000000
+      internalID: -121123700986187725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrella creciente_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a7cb5a33b1ac3b0800000000000000
+      internalID: -5491546886987023777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrella creciente_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e95ec2b3e9261630800000000000000
+      internalID: 3897348585469925863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrella creciente_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170d25dc0723a4c0800000000000000
+      internalID: -4277532285002250471
       vertices: []
       indices: 
       edges: []
@@ -252,7 +352,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: de79ca22fe1ff2449a727783fb6312ca
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -262,10 +362,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nuevo resize_0: -1950157212074411650
-      nuevo resize_1: 8010185622732430744
-      nuevo resize_2: 7715451728979449128
-      nuevo resize_3: 9218671045443184644
+      estrella creciente_0: 3999419104217054006
+      estrella creciente_1: -4724263083819065963
+      estrella creciente_2: -1360508723014915005
+      estrella creciente_3: 147937201625883267
+      estrella creciente_4: -121123700986187725
+      estrella creciente_5: -5491546886987023777
+      estrella creciente_6: 3897348585469925863
+      estrella creciente_7: -4277532285002250471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
