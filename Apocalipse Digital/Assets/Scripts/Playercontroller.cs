@@ -70,7 +70,7 @@ public void Attack()
     if (Input.GetButtonDown("Fire1"))
     {
         anim.SetTrigger("Attack"); // Mejor que SetBool para ataques
-        Debug.Log("¡Atacando con Fire1!");
+        Debug.Log("Atacando Fire1");
     }
 }
 

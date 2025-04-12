@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: d716474af1596d3478bcf670317e9010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2315738367775431238
+    second: sangre muerte enemigos fase1_0
+  - first:
+      213: -8513564588754719776
+    second: sangre muerte enemigos fase1_1
+  - first:
+      213: -3114537158694216539
+    second: sangre muerte enemigos fase1_2
+  - first:
+      213: -1000158933406962454
+    second: sangre muerte enemigos fase1_3
+  - first:
+      213: 3327168348373933610
+    second: sangre muerte enemigos fase1_4
+  - first:
+      213: 7535395428512317488
+    second: sangre muerte enemigos fase1_5
+  - first:
+      213: -8456252183797544977
+    second: sangre muerte enemigos fase1_6
+  - first:
+      213: -9154188022176860223
+    second: sangre muerte enemigos fase1_7
+  - first:
+      213: -3796840204884448182
+    second: sangre muerte enemigos fase1_8
+  - first:
+      213: 8875053304555496740
+    second: sangre muerte enemigos fase1_9
+  - first:
+      213: 4294930563149633166
+    second: sangre muerte enemigos fase1_10
+  - first:
+      213: -3948437544562020947
+    second: sangre muerte enemigos fase1_11
+  - first:
+      213: 4022718030066756599
+    second: sangre muerte enemigos fase1_12
+  - first:
+      213: 8594002489119680283
+    second: sangre muerte enemigos fase1_13
+  - first:
+      213: 7726308481877361897
+    second: sangre muerte enemigos fase1_14
+  - first:
+      213: 7302771705228775029
+    second: sangre muerte enemigos fase1_15
+  - first:
+      213: -2150841832160649854
+    second: sangre muerte enemigos fase1_16
+  - first:
+      213: 1498928731836469039
+    second: sangre muerte enemigos fase1_17
+  - first:
+      213: -4668868563465861057
+    second: sangre muerte enemigos fase1_18
+  - first:
+      213: 8778462434764822061
+    second: sangre muerte enemigos fase1_19
+  - first:
+      213: -2048002702683374485
+    second: sangre muerte enemigos fase1_20
+  - first:
+      213: -6781426480735134018
+    second: sangre muerte enemigos fase1_21
+  - first:
+      213: -2701645405287948868
+    second: sangre muerte enemigos fase1_22
+  - first:
+      213: -8395650976302773255
+    second: sangre muerte enemigos fase1_23
+  - first:
+      213: 4845780520906546923
+    second: sangre muerte enemigos fase1_24
+  - first:
+      213: -513445288411389598
+    second: sangre muerte enemigos fase1_25
+  - first:
+      213: 3735539092696667855
+    second: sangre muerte enemigos fase1_26
+  - first:
+      213: -172294491196469722
+    second: sangre muerte enemigos fase1_27
+  - first:
+      213: -7461192868788645555
+    second: sangre muerte enemigos fase1_28
+  - first:
+      213: 5765716747252121572
+    second: sangre muerte enemigos fase1_29
+  - first:
+      213: 625900027002485231
+    second: sangre muerte enemigos fase1_30
+  - first:
+      213: -4618031060887237609
+    second: sangre muerte enemigos fase1_31
+  - first:
+      213: -4781799736071858288
+    second: sangre muerte enemigos fase1_32
+  - first:
+      213: -744880640098928621
+    second: sangre muerte enemigos fase1_33
+  - first:
+      213: -6179912770296655756
+    second: sangre muerte enemigos fase1_34
+  - first:
+      213: 1514613942473019608
+    second: sangre muerte enemigos fase1_35
+  - first:
+      213: -4955787273018694905
+    second: sangre muerte enemigos fase1_36
+  - first:
+      213: -7152622342598563245
+    second: sangre muerte enemigos fase1_37
+  - first:
+      213: 6965347883293903201
+    second: sangre muerte enemigos fase1_38
+  - first:
+      213: 6497419535796010405
+    second: sangre muerte enemigos fase1_39
+  - first:
+      213: -6915489547256802515
+    second: sangre muerte enemigos fase1_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sangre muerte enemigos fase1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5a00c4938dcdfd0800000000000000
+      internalID: -2315738367775431238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre muerte enemigos fase1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb2ee20d1eb9d980800000000000000
+      internalID: -8513564588754719776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre muerte enemigos fase1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd648a4f0f6c4d0800000000000000
+      internalID: -3114537158694216539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre muerte enemigos fase1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec2857cfb8be12f0800000000000000
+      internalID: -1000158933406962454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre muerte enemigos fase1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e50c81cf97c2e20800000000000000
+      internalID: 3327168348373933610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre muerte enemigos fase1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5583e3653b8446b7fafb1a29900a6
+      internalID: 7535395428512317488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1d9532bfd37a864d92924bb6c2c6b0f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sangre muerte enemigos fase1_0: -2315738367775431238
+      sangre muerte enemigos fase1_1: -8513564588754719776
+      sangre muerte enemigos fase1_2: -3114537158694216539
+      sangre muerte enemigos fase1_3: -1000158933406962454
+      sangre muerte enemigos fase1_4: 3327168348373933610
+      sangre muerte enemigos fase1_5: 7535395428512317488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
