@@ -79,3 +79,7 @@ desktop.ini
 Thumbs.db
 ehthumbs.db
 .DS_Store
+
+
+git branch -m main
+git branch -m master
