@@ -74,7 +74,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 # Archivos del sistema operativo (Windows/macOS)
-desktop.ini
+
 Thumbs.db
 ehthumbs.db
 .DS_Store
