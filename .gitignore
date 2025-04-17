@@ -38,7 +38,6 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
-*ini
 *.user
 *.userprefs
 *.pidb
@@ -46,8 +45,11 @@ ExportedObj/
 *.svd
 *.pdb
 *.mdb
+*.tmp
+*.ini
 *.opendb
 *.VC.db
+/.tmp.driveupload
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -75,6 +77,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 # Archivos del sistema operativo (Windows/macOS)
 
+
+desktop.ini
 Thumbs.db
 ehthumbs.db
 .DS_Store
+.tmp.driveupload/160813
