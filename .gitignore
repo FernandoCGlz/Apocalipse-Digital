@@ -84,3 +84,5 @@ ehthumbs.db
 .DS_Store
 .tmp.driveupload
 .tmp.driveupload/160813
+git push -u origin main --force
+
